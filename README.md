@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Thiago Matheus
+# 👨🏽‍💻 Thiago Matheus
 
 **`Desenvolvedor Front-end estudando Back-and`**
 
