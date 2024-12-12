@@ -133,7 +133,7 @@ Muito prazer, meu nome é Thiago Matheus e obrigado por visitar meu perfil. Tenh
   <a href="https://github.com/thiagoomatheus/gerador-de-personagem"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoomatheus&repo=gerador-de-personagem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="gerador-de-personagem"></a>
 </p>
 
-<a href="https://github.com/thiagoomatheus?tab=repositories&sort=stargazers"><img alt="Todos os repositórios" title="Todos os repositórios" src="https://custom-icon-badges.demolab.com/badge/Clique%20aqui%20para%20acessar%20todos%20os%20meus%20repositórios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/thiagoomatheus?tab=repositories"><img alt="Todos os repositórios" title="Todos os repositórios" src="https://custom-icon-badges.demolab.com/badge/Clique%20aqui%20para%20acessar%20todos%20os%20meus%20repositórios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 ### 📊 Estatísticas
 
