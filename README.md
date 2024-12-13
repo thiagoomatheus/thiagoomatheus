@@ -143,7 +143,7 @@ Muito prazer, meu nome é Thiago Matheus e obrigado por visitar meu perfil. Tenh
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-thiagoomatheus-projects.vercel.app/api?username=thiagoomatheus&count_private=true&show_icons=true&theme=nord&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats-thiagoomatheus-projects.vercel.app/api?username=thiagoomatheus&count_private=true&show_icons=true&theme=nord&include_all_commits=true&locale=pt-br&hide=contribs"
   />
 
 <img 
