@@ -146,14 +146,14 @@ Muito prazer, meu nome é Thiago Matheus e obrigado por visitar meu perfil. Tenh
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-thiagoomatheus-projects.vercel.app/api?username=thiagoomatheus&count_private=true&show_icons=true&theme=nord&include_all_commits=true&locale=pt-br&hide=contribs"
+    src="https://github-readme-stats-beige-nine-27.vercel.app/api?username=thiagoomatheus&count_private=true&show_icons=true&theme=nord&include_all_commits=true&locale=pt-br&hide=contribs"
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-thiagoomatheus-projects.vercel.app/api/top-langs/?username=thiagoomatheus&theme=nord&layout=compact&custom_title=Tecnologias&langs_count=9"
+      src="https://github-readme-stats-beige-nine-27.vercel.app/api/top-langs/?username=thiagoomatheus&theme=nord&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 
 </p>
