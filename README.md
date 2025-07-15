@@ -1,8 +1,8 @@
 # 👨🏽‍💻 Thiago Matheus
 
-**`Desenvolvedor Front-end estudando Back-and`**
+**`Desenvolvedor de Software`**
 
-Muito prazer, meu nome é Thiago Matheus e obrigado por visitar meu perfil. Tenho 24 anos e moro no interior do estado de São Paulo. Desde pequeno me interesso por tecnologia e sempre gostei de computadores e hardware. Foi quando eu tinha uns 15 anos que comecei a me interessar por softwares. Minha porta de entrada para o mundo do desenvolvimento foi através da dupla dinámica HTML e CSS. Entre indas e vindas, peguei firme nos estudos para me aprofundar do desenvolvimento front-end a partir de 2021 e, desde lá, estudo programação, inicialmente, focado em desenvolvimento front-end e hoje estou me aprimorando em desenvolvimento back-end. Atualmente, tenho trabalhado em projetos pessoais como o [designacoesnvmc.site](https://designacoesnvmc.site) e o [ProfAssistant](https://profassistant.site/) e projetos freelancer. Fique a vontade para conhecer alguns de meus projetos e confirmar meus conhecimentos!
+Muito prazer, meu nome é Thiago Matheus e obrigado por visitar meu perfil. Tenho 24 anos e moro no interior do estado de São Paulo. Desde pequeno me interesso por tecnologia e sempre gostei de computadores e hardware. Foi quando eu tinha uns 15 anos que comecei a me interessar por softwares. Minha porta de entrada para o mundo do desenvolvimento foi através da dupla dinámica HTML e CSS. Entre indas e vindas, peguei firme nos estudos para me aprofundar do desenvolvimento front-end a partir de 2021 e, desde lá, estudo programação, inicialmente, focado em desenvolvimento front-end e hoje já tenho conhecimentos sólidos em back-end com Node.js. Atualmente, tenho trabalhado em projetos pessoais como o [designacoesnvmc.site](https://designacoesnvmc.site) e o [ProfAssistant](https://profassistant.site/) e projetos freelancer. Fique a vontade para conhecer alguns de meus projetos e confirmar meus conhecimentos!
 
 ### 🤖 Linguagens e Tecnologias
 
