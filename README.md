@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Muito prazer, meu nome é Thiago Matheus e obrigado por visitar meu perfil. Tenho 24 anos e moro no interior do estado de São Paulo. Desde pequeno me interesso por tecnologia e sempre gostei de computadores e hardware. Foi quando eu tinha uns 15 anos que comecei a me interessar por softwares. Minha porta de entrada para o mundo do desenvolvimento foi através da dupla dinámica HTML e CSS. Entre indas e vindas, peguei firme nos estudos para me aprofundar do desenvolvimento front-end a partir de 2021 e, desde lá, estudo programação, inicialmente, focado em desenvolvimento front-end e hoje já tenho conhecimentos sólidos em back-end com Node.js. Atualmente, tenho trabalhado em projetos pessoais como o [designacoesnvmc.site](https://designacoesnvmc.site) e o [ProfAssistant](https://profassistant.site/) e projetos freelancer. Fique a vontade para conhecer alguns de meus projetos e confirmar meus conhecimentos!
+Muito prazer, meu nome é Thiago Matheus e obrigado por visitar meu perfil. Tenho 24 anos e moro no interior do estado de São Paulo. Desde pequeno me interesso por tecnologia e sempre gostei de computadores e hardware. Minha porta de entrada para o mundo do desenvolvimento foi através da dupla dinámica HTML e CSS. Entre indas e vindas, peguei firme nos estudos para me aprofundar do desenvolvimento front-end a partir de 2021 e, desde lá, estudo programação, inicialmente, focado em desenvolvimento front-end e hoje já tenho conhecimentos sólidos em back-end com Node.js. Atualmente, tenho trabalhado em projetos pessoais como o [designacoesnvmc.site](https://designacoesnvmc.site) e o [ProfAssistant](https://profassistant.site/), projetos freelancer, como um bot para automação de lançamentos no sistema da SED (Secretaria Escolar Digital) via WhatsApp e um software para o mesmo via Electron, e contribuído em projetos open-source, como o [Evolution API](https://github.com/EvolutionAPI/evolution-api). Fique a vontade para conhecer alguns de meus projetos e confirmar meus conhecimentos!
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -120,6 +120,14 @@ Muito prazer, meu nome é Thiago Matheus e obrigado por visitar meu perfil. Tenh
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
 />
+<img
+  align="left" 
+  alt="Electron" 
+  title="Electon"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg"
+/>
 <br/>
 <br/>
 
@@ -128,13 +136,12 @@ Muito prazer, meu nome é Thiago Matheus e obrigado por visitar meu perfil. Tenh
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-    <a href="https://github.com/thiagoomatheus/jw_scraping"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoomatheus&repo=jw_scraping&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="designacoesnvmc.site"></a>
+    <a href="https://github.com/thiagoomatheus/api-assistente-electron"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoomatheus&repo=api-assistente-electron&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="api-assistente-electron"></a>
+    <a href="https://github.com/thiagoomatheus/designacoesnvmc.site"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoomatheus&repo=designacoesnvmc.site&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="designacoesnvmc.site"></a>
+  <a href="https://github.com/thiagoomatheus/profassistant.site"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoomatheus&repo=profassistant.site&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="profassistant.site"></a>
     <a href="https://github.com/thiagoomatheus/confirma-notificacao"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoomatheus&repo=confirma-notificacao&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="confirma-notificacao"></a>
     <a href="https://github.com/thiagoomatheus/testes-automatizados"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoomatheus&repo=testes-automatizados&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="testes-automatizados"></a>
-  <a href="https://github.com/thiagoomatheus/projects"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoomatheus&repo=projects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="projects"></a>
   <a href="https://github.com/thiagoomatheus/costs"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoomatheus&repo=costs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="costs"></a>
-  <a href="https://github.com/thiagoomatheus/gerador-de-personagem"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoomatheus&repo=gerador-de-personagem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="gerador-de-personagem"></a>
-</p>
 
 <a href="https://github.com/thiagoomatheus?tab=repositories"><img alt="Todos os repositórios" title="Todos os repositórios" src="https://custom-icon-badges.demolab.com/badge/Clique%20aqui%20para%20acessar%20todos%20os%20meus%20repositórios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
